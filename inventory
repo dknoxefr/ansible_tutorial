@@ -1,0 +1,3 @@
+AnsLab1 ansible_user=root
+AnsLab2 ansible_user=root
+AnsLab3 ansible_user=root
